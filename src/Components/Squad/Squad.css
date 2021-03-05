@@ -1,0 +1,20 @@
+.squad-container {
+    color: indigo;
+    display: flex;
+}
+.players-container {
+    width: 70%;
+    margin-left: 45px;
+    margin-right: 5px;
+    padding-right: 10px;
+    border-right: 1px solid lightgray;
+}
+
+.players-container img {
+    width: 70%;
+    height: 300px;
+}
+
+.selection-container {
+    width: 20%;
+}

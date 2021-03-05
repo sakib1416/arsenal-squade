@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Bernd Leno",
+        "salary": 250000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Leno_1045x658_0.jpg?itok=wG2m32hE"
+    },
+    {
+        "id": 2,
+        "name": "Mat Ryan",
+        "salary": 150000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Ryan_1045x658_0.jpg?itok=UiP9cZCi"
+    },
+    {
+        "id": 3,
+        "name": "Hector Bellerin",
+        "salary": 300000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Bellerin_1045x658_1.jpg?itok=95vIilIJ"
+    },
+    {
+        "id": 4,
+        "name": "Kieran Tierney",
+        "salary": 200000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Tierney_1045x658_0.jpg?itok=mjvpH5MI"
+    },
+    {
+        "id": 5,
+        "name": "Martin Odegaard",
+        "salary": 150000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Odegaard_1045x658.jpg?itok=zQB3Ft31"
+    },
+    {
+        "id": 6,
+        "name": "Gabriel",
+        "salary": 150000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Gabriel_1045x658%5B2%5D_0.jpg?itok=fNg6wu1H"
+    },
+    {
+        "id": 7,
+        "name": "Bukayo Saka",
+        "salary": 250000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Saka_1045x658_0.jpg?itok=Tx1tc5do"
+    },
+    {
+        "id": 8,
+        "name": "Thomas Partey",
+        "salary": 250000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Partey_1045x658.jpg?itok=iH5rRkLH"
+    },
+    {
+        "id": 9,
+        "name": "Emile Smith Rowe",
+        "salary": 200000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/SmithRowe_1045x658_0.jpg?itok=WrR5kR6L"
+    },
+    {
+        "id": 10,
+        "name": "Granit Xhaka",
+        "salary": 250000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Xhaka_1045x658_1.jpg?itok=xl0qGW_D"
+    },
+    {
+        "id": 11,
+        "name": "Alexandre Lacazette",
+        "salary": 200000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Lacazette_1045x658_1.jpg?itok=rpE-7T4U"
+    },
+    {
+        "id": 12,
+        "name": "Nicolas Pepe",
+        "salary": 200000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Pepe_1045x658.jpg?itok=t71xsJoY"
+    },
+    {
+        "id": 13,
+        "name": "Gabriel Martinelli",
+        "salary": 100000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Martinelli_1045x658_0.jpg?itok=NrQfxkyS"
+    },
+    {
+        "id": 14,
+        "name": "Pierre-Emerick Aubameyang",
+        "salary": 350000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Aubameyang_1045x658_0.jpg?itok=FhDWuQfN"
+    },
+    {
+        "id": 15,
+        "name": "Rob Holding",
+        "salary": 200000,
+        "image": "https://www.arsenal.com/sites/default/files/styles/player_featured_image_1045x658/public/images/Holding_1045x658_1.jpg?itok=XIaOHApS"
+    }
+]
