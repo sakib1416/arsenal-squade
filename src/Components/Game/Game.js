@@ -7,7 +7,7 @@ const Game = (props) => {
         <div>
             <h5>Players selected for the Game: {playingEleven.length}</h5>
             <p>Players Selected: {
-                    playingEleven.map(player => <span>{player.name}, </span>)
+                    playingEleven.map(player => <span>{player.name} (£{player.salary}), </span>)
                 }
             </p>
             <p>Total Spending: £{totalSpending}</p>
